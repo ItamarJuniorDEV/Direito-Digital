@@ -13,6 +13,7 @@ Shareware: Software distribuído de forma gratuita por um período de teste, ap�
 Software de Código Aberto (Open Source): Software cujo código-fonte é acessível ao público, permitindo uso, modificação e distribuição conforme as regras da licença associada. Exemplo: Linux, GIMP.
 
 Licenças GNU e Tipos de Licenças Livres:
+
 GNU General Public License (GPL): Criada pela Free Software Foundation, a GPL é uma licença que permite a livre distribuição e modificação do software, com a condição de que qualquer programa derivado também use a mesma licença (Copyleft). Esse modelo busca garantir que o software e suas versões derivadas permaneçam sempre livres.
 
 GNU FDL (Free Documentation License): É uma licença aplicada a documentação de software, permitindo cópias e modificações de textos com a condição de que sejam mantidos os mesmos termos de liberdade de uso e modificação.
@@ -26,6 +27,7 @@ Licença Livre: Refere-se a qualquer licença que permite ao usuário usar, modi
 Copyleft: Um princípio que garante que o software derivado de um programa livre deve permanecer igualmente livre. Isso assegura que o código inicial e qualquer modificação permaneçam acessíveis a todos.
 
 No GitHub, as principais licenças usadas são:
+
 MIT License: Permissiva e de fácil entendimento, permite usar, copiar, modificar, mesclar, publicar e distribuir o software. Exige apenas a inclusão da licença original em cópias do software.
 
 Apache License 2.0: Permissiva e permite modificação e distribuição, mas exige que alterações sejam documentadas. É popular para projetos empresariais e protege contra litígios de patentes.
